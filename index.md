@@ -3,9 +3,10 @@
 layout: page
 ---
 
-<img src="/assets/picture_1.jpg" alt="Photo" style="width:200px; float:left; padding-right:40px"/>
+<img src="/assets/picture_1.jpg" alt="Photo" style="width:200px; float:left; margin-right:40px;"/>
 
-<div style="overflow:hidden;">
+<div style="margin-left:240px;">
+  <h1>Jad Moawad</h1>
   <p>I am a postdoctoral researcher at the <a href="https://www.inet.ox.ac.uk/">Institute for New Economic Thinking</a>, the <a href="https://www.spi.ox.ac.uk/">Department of Social Policy and Intervention</a>, and associate member at <a href="https://www.nuffield.ox.ac.uk">Nuffield College</a>, University of Oxford.</p>
 
   <p>My main research interests lie at the intersection of economic sociology and quantitative political economy.</p>
@@ -17,5 +18,5 @@ layout: page
   <p>I worked with several large-scale surveys such as the European Union Statistics on Income and Living Conditions (EU-SILC), the European Social Survey (ESS), and the Luxembourg Income Study (LIS). In addition, I've recently started designing experiments that explore societal attitudes towards wealth redistribution.<p>
 
   <p>Get in touch via [jad.moawad@spi.ox.ac.uk](mailto:jad.moawad@spi.ox.ac.uk). <p>
-
 </div>
+
