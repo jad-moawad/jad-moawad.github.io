@@ -1,6 +1,6 @@
 title: "Jad Moawad"
 author: "Jad Moawad"
-#description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+#description: "© 2023-24 Jad Moawad." # Made with Jekyll using the {title: contrast, url: "https://github.com/niklasbuschmann/contrast"} theme.
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,10 +8,10 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+show_excerpts: false        # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
