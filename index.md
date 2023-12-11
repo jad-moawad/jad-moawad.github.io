@@ -3,7 +3,7 @@ layout: page
 #title: "Jad Moawad"
 ---
 
-![Photo](/assets/picture_1.jpg){:width="400px" style="float:left; padding-right:80px"}
+![Photo](/assets/picture_1.jpg){:width="100px" style="float:left; padding-right:40px"}
 
 I am a postdoctoral researcher at the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), and associate member at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
