@@ -4,9 +4,9 @@ title: "Research"
 ---
 
 ### Peer-reviewed
-1. Moawad, Jad. 2023. 'How the Great Recession Changed Class Inequality: Evidence from 23 European Countries', [Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102829)
-2. Moawad, Jad. 2022. 'Labour Market Prospects of Young Adults in Europe: Differential Effects of Social Origin During the Great Recession', [European Societies](https://doi.org/10.1080/14616696.2022.2043409)
-3. Moawad, Jad. 2022. 'Gender Inequality in Sports', Journal of Philosophy, Ethics and Sports Law
+1. Moawad, Jad. 2023. 'How the Great Recession Changed Class Inequality: Evidence from 23 European Countries', [Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102829). Replication code [Link](https://github.com/jad-moawad/How-the-Great-Recession-Changed-Class-Inequality-Evidence-from-23-European-Countries)
+2. Moawad, Jad. 2022. 'Labour Market Prospects of Young Adults in Europe: Differential Effects of Social Origin During the Great Recession', [European Societies](https://doi.org/10.1080/14616696.2022.2043409). Replication code [Link](https://github.com/jad-moawad/Labour-Market-Prospects-of-Young-Adults-in-Europe)
+3. Moawad, Jad. 2022. 'Gender Inequality in Sports', [Journal of Philosophy, Ethics and Sports Law](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nyE6-5MAAAAJ&citation_for_view=nyE6-5MAAAAJ:WF5omc3nYNoC)
 
 ### In preparation
 
