@@ -12,15 +12,16 @@ title: "Research"
 
 {:start="4"}
     
-4. Moawad, Jad, Oesch, Daniel. 'The Myth of the Middle Class Squeeze: Employment and Income by Class in Six Western Countries, 1980-2020', *under review*. [working paper](https://osf.io/preprints/socarxiv/yrjpf/)
+4. Moawad, Jad, Oesch, Daniel. 'The Myth of the Middle Class Squeeze: Employment and Income by Class in Six Western Countries, 1980-2020', *under review*. [Working paper.](https://osf.io/preprints/socarxiv/yrjpf/)
 5. Moawad, Jad. 'The Impact of the Great Recession on Health Inequalities in Europe: Evidence from 29 Countries', *under review*.
 6. Moawad, Jad. 'Changes in Wealth Inequalities over the Last Two Decades: The Role of Education'.  
-
+6. Moawad, Jad. 'Changes in Wealth Inequalities over the Last Two Decades: The Role of Education'.
+   
 ### Dissertation
 
-- Moawad, Jad. 2023. Social Classes and the Great Recession: Evidence from Europe and the United States. [University of Lausanne](https://serval.unil.ch/resource/serval:BIB_F2CCAF5D9099.P001/REF).
+- Moawad, Jad. 2023. Social Classes and the Great Recession: Evidence from Europe and the United States. [University of Lausanne.](https://serval.unil.ch/resource/serval:BIB_F2CCAF5D9099.P001/REF).
   
 
 ### Media Coverage
 
-- Le Monde. 2023. 'Les classes moyennes, partout prétendues victimes, s’en sortent mieux que les classes laborieuses'. [Link](https://www.lemonde.fr/idees/article/2023/06/21/les-classes-moyennes-partout-pretendues-victimes-s-en-sortent-mieux-que-les-classes-laborieuses_6178624_3232.html)
+- Le Monde. 2023. 'Les classes moyennes, partout prétendues victimes, s’en sortent mieux que les classes laborieuses'. [Link.](https://www.lemonde.fr/idees/article/2023/06/21/les-classes-moyennes-partout-pretendues-victimes-s-en-sortent-mieux-que-les-classes-laborieuses_6178624_3232.html)
