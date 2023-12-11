@@ -3,7 +3,7 @@
 layout: page
 ---
 
-<img src="/assets/picture_1.jpg" alt="Photo" style="width:200px; float:left; margin-right:40px;"/>
+<img src="/assets/picture_1.jpg" alt="Photo" style="width:150px; float:left; margin-right:40px;"/>
 
 <div style="margin-left:240px;">
   <h1>Jad Moawad</h1>
