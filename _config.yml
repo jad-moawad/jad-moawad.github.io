@@ -22,8 +22,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jad.moawad@spi.ox.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/jad-moawad"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/jad_moawad"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=nyE6-5MAAAAJ&hl=en&oi=ao"}
+  - {title: LinkedIn, icon: linkedin, url: "linkedin.com/in/jad-moawad-a79730164"}
+  - {title: Mail, icon: envelope, url: "mailto:jad.moawad@spi.ox.ac.uk"}
 
 
 comments:
