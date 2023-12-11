@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Jad Moawad"
+#title: "Jad Moawad"
 ---
 
 I am a postdoctoral researcher at the Institute of New Economic Thinking, University of Oxford. My main research interests lie at the intersection of economic sociology and quantitative political economy.
