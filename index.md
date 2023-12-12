@@ -3,10 +3,6 @@
 layout: page
 ---
 
-![Photo](/assets/picture_2.jpg){: .image-quarter}
-
-<div style="clear:both;"></div>
-
 
 <div>
   <p>I am a postdoctoral researcher at the <a href="https://www.inet.ox.ac.uk/">Institute for New Economic Thinking</a>, the <a href="https://www.spi.ox.ac.uk/">Department of Social Policy and Intervention</a>, and an associate member at <a href="https://www.nuffield.ox.ac.uk">Nuffield College</a>, University of Oxford.</p>
