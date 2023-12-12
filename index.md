@@ -3,9 +3,6 @@
 layout: page
 ---
 
-
-![Photo](/assets/portrait_old.jpg){:width="200px"}
-
 I am a postdoctoral researcher at the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), and an associate member at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
 My main research interests lie at the intersection of economic sociology and quantitative political economy.
