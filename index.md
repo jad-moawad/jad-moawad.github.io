@@ -2,17 +2,43 @@
 layout: page
 ---
 
-.image-container img {
-  width: 25%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+---
+layout: page
+---
 
-.text-container {
-  clear: both;
-}
+---
+layout: page
+---
+
+![Photo](/assets/picture_2.jpg){: .image-quarter}
+
+<div style="clear:both;"></div>
+
+
+<div>
+  <p>I am a postdoctoral researcher at the <a href="https://www.inet.ox.ac.uk/">Institute for New Economic Thinking</a>, the <a href="https://www.spi.ox.ac.uk/">Department of Social Policy and Intervention</a>, and an associate member at <a href="https://www.nuffield.ox.ac.uk">Nuffield College</a>, University of Oxford.</p>
+
+  <p>My main research interests lie at the intersection of economic sociology and quantitative political economy.</p>
+
+  <p>I am the principal investigator for the SNSF grant on the determinants of wealth, saving and consumption behavior. I analyze these outcomes in Europe and the United States.</p>
+
+  <p>Previously, I received my Ph.D. in Social Sciences from the University of Lausanne, where I studied the aftermath of the 2008 financial crisis. My research shed light on its far-reaching effects on various social dimensions, in particular on income and health inequalities.</p>
+
+  <p>I have worked with several large-scale surveys such as the European Union Statistics on Income and Living Conditions (EU-SILC), the European Social Survey (ESS), and the Luxembourg Income Study (LIS). In addition, I've recently started designing experiments that explore societal attitudes towards wealth redistribution.</p>
+</div>
+
+
+<div>
+  <p>I am a postdoctoral researcher at the <a href="https://www.inet.ox.ac.uk/">Institute for New Economic Thinking</a>, the <a href="https://www.spi.ox.ac.uk/">Department of Social Policy and Intervention</a>, and an associate member at <a href="https://www.nuffield.ox.ac.uk">Nuffield College</a>, University of Oxford.</p>
+
+  <p>My main research interests lie at the intersection of economic sociology and quantitative political economy.</p>
+
+  <p>I am the principal investigator for the SNSF grant on the determinants of wealth, saving and consumption behavior. I analyze these outcomes in Europe and the United States.</p>
+
+  <p>Previously, I received my Ph.D. in Social Sciences from the University of Lausanne, where I studied the aftermath of the 2008 financial crisis. My research shed light on its far-reaching effects on various social dimensions, in particular on income and health inequalities.</p>
+
+  <p>I have worked with several large-scale surveys such as the European Union Statistics on Income and Living Conditions (EU-SILC), the European Social Survey (ESS), and the Luxembourg Income Study (LIS). In addition, I've recently started designing experiments that explore societal attitudes towards wealth redistribution.</p>
+</div>
 
 
 <div>
