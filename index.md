@@ -2,7 +2,7 @@
 layout: page
 ---
 
-.img-picture2 {
+.image-container img {
   width: 25%;
   height: auto;
   display: block;
