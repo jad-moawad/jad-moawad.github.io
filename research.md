@@ -12,7 +12,7 @@ title: "Research"
 
 {:start="4"}
     
-4. Moawad, Jad, Oesch, Daniel. 'The Myth of the Middle Class Squeeze: Employment and Income by Class in Six Western Countries, 1980-2020', *under review*. [Working paper.](https://osf.io/preprints/socarxiv/yrjpf/).
+4. Moawad, Jad, Oesch, Daniel. 'The Myth of the Middle Class Squeeze: Employment and Income by Class in Six Western Countries, 1980-2020', *under review*. [Working paper](https://osf.io/preprints/socarxiv/yrjpf/).
 5. Moawad, Jad. 'The Impact of the Great Recession on Health Inequalities in Europe: Evidence from 29 Countries', *under review*.
 6. Moawad, Jad. 'Changes in Wealth Inequalities over the Last Two Decades: The Role of Education'.  
 
