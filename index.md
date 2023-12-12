@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="/assets/picture_2.jpg" alt="Photo" style="width:400px; float:left; margin-right:80px;"/>
+<img src="/assets/picture_2.jpg" alt="Photo" style="width:400px; float:left; margin-right:160px;"/>
 
 <div>
   <p>I am a postdoctoral researcher at the <a href="https://www.inet.ox.ac.uk/">Institute for New Economic Thinking</a>, the <a href="https://www.spi.ox.ac.uk/">Department of Social Policy and Intervention</a>, and an associate member at <a href="https://www.nuffield.ox.ac.uk">Nuffield College</a>, University of Oxford.</p>
