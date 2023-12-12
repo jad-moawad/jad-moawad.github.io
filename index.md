@@ -1,10 +1,3 @@
----
-layout: page
----
-
----
-layout: page
----
 
 ---
 layout: page
