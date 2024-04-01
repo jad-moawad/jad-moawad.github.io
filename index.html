@@ -1,6 +1,14 @@
 ---
 layout: default
 title: "Home"
+
+{% if site.show_excerpts %}
+{% include home.html %}
+<img src="assets/picture_2.jpg" alt="Jad Moawad">
+{% else %}
+
+{% include archive.html title="Posts" %}
+{% endif %}
 ---
 
 {% if site.show_excerpts %}
