@@ -4,11 +4,11 @@ layout: page
 
 ![Jad Moawad](assets/picture_2_website.jpg){:style="display:block;margin-left:auto;margin-right:auto"}
 
-I am a postdoctoral researcher at the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), and associate member at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
+I am a postdoctoral researcher at the [Department of Social Policy and Intervention](https://www.inet.ox.ac.uk/people/jad-moawad/) and associate member at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
-My main research interests lie at the intersection of sociology and political economy.
+My main research interests lie at the intersection of social stratification and life course inequalities.  
 
-I am the principal investigator for the SNSF grant on the determinants of wealth, saving, and consumption behavior. I analyze these outcomes in Europe and the United States.
+I am the principal investigator for the SNSF grant on the determinants of saving and consumption behaviour. I analyze these outcomes in Europe and the United States.
 
 Previously, I received my Ph.D. in Social Sciences from the University of Lausanne, where I studied the aftermath of the 2008 financial crisis. My research shed light on its far-reaching effects on various social dimensions, particularly income and health inequalities.
 
