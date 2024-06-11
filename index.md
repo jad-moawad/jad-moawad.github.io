@@ -8,8 +8,9 @@ I am a postdoctoral researcher at the [Department of Social Policy and Intervent
 
 My main research interests lie at the intersection of social stratification and life course inequalities.  
 
-I am the principal investigator for the SNSF grant on the determinants of saving and consumption behaviour. I analyze these outcomes in Europe and the United States.
+I am the principal investigator of the SNSF grant on the determinants of saving and consumption behavior. My research focuses on analyzing these outcomes in Europe and the United States. In addition, I am designing a randomized experiment to examine whether financial literacy interventions can improve people's saving and investment decisions.
 
 Previously, I received my Ph.D. in Social Sciences from the University of Lausanne, where I studied the aftermath of the 2008 financial crisis. My research shed light on its far-reaching effects on various social dimensions, particularly income and health inequalities.
 
-I have worked with several large-scale surveys such as the European Union Statistics on Income and Living Conditions (EU-SILC), the European Social Survey (ESS), and the Luxembourg Income Study (LIS). Recently, I've started designing experiments that explore insights on saving behaviours from both qualitative and quantitative perspectives.
+I have worked with several large-scale cross-sectional and longitudinal surveys such as the European Union Statistics on Income and Living Conditions (EU-SILC), the European Social Survey (ESS), the Household Finance and Consumption Survey (HFCS), and the Luxembourg Income Study (LIS). 
+
