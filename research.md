@@ -4,17 +4,19 @@ title: "Research"
 ---
 
 ### Peer-reviewed
-1. Moawad, Jad. 2023. 'How the Great Recession Changed Class Inequality: Evidence from 23 European Countries', [Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102829). Replication code [Link](https://github.com/jad-moawad/How-the-Great-Recession-Changed-Class-Inequality-Evidence-from-23-European-Countries).
-2. Moawad, Jad. 2022. 'Labour Market Prospects of Young Adults in Europe: Differential Effects of Social Origin During the Great Recession', [European Societies](https://doi.org/10.1080/14616696.2022.2043409). Replication code [Link](https://github.com/jad-moawad/Labour-Market-Prospects-of-Young-Adults-in-Europe).
-3. Moawad, Jad. 2022. 'Gender Inequality in Sports', [Journal of Philosophy, Ethics and Sports Law](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nyE6-5MAAAAJ&citation_for_view=nyE6-5MAAAAJ:WF5omc3nYNoC).
+
+1. Moawad, Jad, Oesch, Daniel. 2024. 'The Myth of the Middle Class Squeeze: Employment and Income by Class in Six Western Countries, 1980-2020', [Forthcoming in: Comparative Political Studies]. Replication code [Link]([https://github.com/jad-moawad/How-the-Great-Recession-Changed-Class-Inequality-Evidence-from-23-European-Countries](https://github.com/jad-moawad/The-Myth-of-the-Middle-Class-Squeeze-Employment-and-Income-by-Class-in-Six-Western-Countries)
+   
+2. Moawad, Jad. 2023. 'How the Great Recession Changed Class Inequality: Evidence from 23 European Countries', [Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102829). Replication code [Link](https://github.com/jad-moawad/How-the-Great-Recession-Changed-Class-Inequality-Evidence-from-23-European-Countries).
+
+3. Moawad, Jad. 2022. 'Labour Market Prospects of Young Adults in Europe: Differential Effects of Social Origin During the Great Recession', [European Societies](https://doi.org/10.1080/14616696.2022.2043409). Replication code [Link](https://github.com/jad-moawad/Labour-Market-Prospects-of-Young-Adults-in-Europe).
 
 ### In preparation
 
 {:start="4"}
     
-4. Moawad, Jad, Oesch, Daniel. 'The Myth of the Middle Class Squeeze: Employment and Income by Class in Six Western Countries, 1980-2020', *under review*. [Working paper](https://joint-research-centre.ec.europa.eu/system/files/2023-04/JRC131515_Myth_of_middle_class_squeeze.pdf).
-5. Moawad, Jad. 'The Impact of the Great Recession on Health Inequalities in Europe: Evidence from 29 Countries', *under review*.
-6. Moawad, Jad. 'Changes in Wealth Inequalities over the Last Two Decades: The Role of Education'.  
+4. Moawad, Jad. 'The Impact of the Great Recession on Health Inequalities in Europe: Evidence from 29 Countries', *under review*.
+5. Moawad, Jad. 'Changes in Wealth Inequalities over the Last Two Decades: The Role of Education'.  
 
    
 ### Dissertation
