@@ -5,7 +5,7 @@ title: "Research"
 
 ### Peer-reviewed
 
-1. Moawad, Jad, Oesch, Daniel. 2024. 'The Myth of the Middle Class Squeeze: Employment and Income by Class in Six Western Countries, 1980-2020', [Forthcoming in: Comparative Political Studies]. Replication code [Link]([https://github.com/jad-moawad/How-the-Great-Recession-Changed-Class-Inequality-Evidence-from-23-European-Countries](https://github.com/jad-moawad/The-Myth-of-the-Middle-Class-Squeeze-Employment-and-Income-by-Class-in-Six-Western-Countries)
+1. Moawad, Jad, Oesch, Daniel. 2024. 'The Myth of the Middle Class Squeeze: Employment and Income by Class in Six Western Countries, 1980-2020', [Forthcoming in: Comparative Political Studies]. Replication code [Link](https://github.com/jad-moawad/How-the-Great-Recession-Changed-Class-Inequality-Evidence-from-23-European-Countries).
    
 2. Moawad, Jad. 2023. 'How the Great Recession Changed Class Inequality: Evidence from 23 European Countries', [Social Science Research](https://doi.org/10.1016/j.ssresearch.2022.102829). Replication code [Link](https://github.com/jad-moawad/How-the-Great-Recession-Changed-Class-Inequality-Evidence-from-23-European-Countries).
 
